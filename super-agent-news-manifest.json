@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "WeRSM",
+      "title": "Meta Is Turning AI Glasses Into A Subscription",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92TTlMYXZrLVlHTGhsbXY0aURXT01naEtJQ0FXV0tXdURkSlZ0WldXelRLMDU0QU80WVJNRWdPNGFKYlZJaktGVkl0aDREcXlaUE13M0o4M0N0bjN0OEV5ckp4cUstV1k3S1dnczAyMmpGa0k"
+    },
+    {
+      "source": "PCMag",
+      "title": "Smart Glasses 101: I've Tried Every Type\u2014Here's What They Actually Do",
+      "url": "https://www.pcmag.com"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/520675/"
+    },
+    {
+      "source": "Google",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title+kind+audience+generated_at \u2192 selected architecture = workflow-command-center. AIDA Check: Attention (hands\u2011free Meta Display hero), Interest (market context + proof), Desire (workflow + media), Action (CTA band). Font Selection: Cabinet Grotesk (brand anchor). Hero Math Verification: clamp headline spans 2\u20133 lines at 1120px max-width. Bento Density Verification: compare and bento grids use grid-auto-flow:dense. GSAP Motion Selection: image-scale-fade-scroll + hover-physics. Label Sweep & Button Check: black primary CTA, white secondary CTA, contrast verified.",
+  "generated_at": "2026-07-06T02:05:01.518416+00:00",
+  "headline": "Meta Display AI assistant for smart glasses that actually gets work done",
+  "site_brief": {
+    "audience": "people evaluating AI assistants for Meta smart glasses and display-style wearable workflows",
+    "canonical_url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Meta Display AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "Meta smart glasses AI assistant",
+      "Meta Display AI assistant",
+      "AI assistant for smart glasses",
+      "wearable AI agent computer use"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "meta-display-ai-assistant",
+    "title": "Meta Display AI assistant",
+    "use_case_intent": "show how Super can become the action layer for hands-free Meta Display workflows beyond simple voice answers"
+  },
+  "summary": "A practical, field\u2011tested guide to using Super as the action layer behind Meta Display and smart\u2011glasses workflows\u2014going beyond voice answers to real computer use, durable automation, and a reusable computer-use cache."
+}
